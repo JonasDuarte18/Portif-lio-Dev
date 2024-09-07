@@ -1,0 +1,20 @@
+.intro {
+  img {
+    padding-bottom: 56px;
+  }
+
+  h2 {
+    font: var(--subtitle);
+
+  }
+
+  text-align: center;
+
+  header {
+    align-items: center;
+    display: flex;
+    flex-direction: column;
+  }
+
+
+}
